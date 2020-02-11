@@ -70,7 +70,7 @@ onboard==1.4.1
 PAM==0.4.2
 pandas==1.0.1
 pandocfilters==1.4.2
-paramiko==2.0.0
+paramiko==2.0.9
 parso==0.6.0
 passlib==1.7.1
 pexpect==4.8.0
